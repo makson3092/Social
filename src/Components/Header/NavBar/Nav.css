@@ -1,0 +1,8 @@
+nav {
+  width: 100%;
+  display: flex;
+  padding: 0 10px;
+  background-color: yellow;
+  flex-direction: row;
+  justify-content: space-evenly;
+}

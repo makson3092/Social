@@ -1,0 +1,25 @@
+section {
+  width: 100%;
+  background-color: chartreuse;
+  color: white;
+  padding: 20px 0 0 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  overflow: auto;
+}
+
+section h2 {
+  text-align: center;
+  padding: 0 0 20px 0;
+}
+
+#post {
+  margin: 10px 0;
+}
+
+textarea {
+  min-height: 15%;
+  width: 50%;
+}

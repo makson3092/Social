@@ -1,0 +1,17 @@
+.dialogs {
+  width: 75%;
+  background-color: cornflowerblue;
+  padding: 0 0 0 20px;
+  display: flex;
+}
+
+.dialogs .dialogsItem {
+  color: white;
+  padding: 20px 0 0 20px;
+  width: 30%;
+  background-color: rgb(185, 246, 239);
+}
+
+.dialogsMesagge {
+  padding: 20px 20px 0 20px;
+}
